@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jsf-primefaces-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LEANDRO
+Implementation-Vendor-Id: com.codenotfound
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://www.codenotfound.com/jsf-primefaces-exampl
+ e-spring-boot-maven.html
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: JoinFaces
+
